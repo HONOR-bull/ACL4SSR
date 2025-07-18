@@ -16,3 +16,10 @@ DOMAIN-SUFFIX,appsflayer.com
 # 内容：tradingview
 # 数量：1条
 DOMAIN-SUFFIX,tradingview.com
+
+
+# 内容：coin相关
+# 数量：3条
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coinank.com
